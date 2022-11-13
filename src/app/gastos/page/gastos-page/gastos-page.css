@@ -1,0 +1,13 @@
+.title{
+    padding: 0.5rem;
+
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    padding: 0.5rem 1rem;
+}
